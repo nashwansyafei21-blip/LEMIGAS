@@ -1,0 +1,6 @@
+{
+  "name": "Balai Besar Pengujian Minyak dan Gas Bumi LEMIGAS",
+  "description": "Portal Resmi Balai Besar Pengujian Minyak dan Gas Bumi (LEMIGAS) Kementerian Energi dan Sumber Daya Mineral Republik Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
